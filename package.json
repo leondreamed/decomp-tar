@@ -1,7 +1,8 @@
 {
 	"name": "decomp-tar",
 	"type": "module",
-	"version": "0.1.0",
+	"main": "./index.js",
+	"version": "0.1.1",
 	"description": "decompress tar plugin",
 	"license": "MIT",
 	"repository": "kevva/decompress-tar",
